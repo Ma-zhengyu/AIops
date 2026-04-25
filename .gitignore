@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+data/raw/
+data/processed/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt

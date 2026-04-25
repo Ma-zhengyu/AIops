@@ -1,0 +1,20 @@
+id,area,title,venue_or_source,year,why_it_matters,url
+P001,log,DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning,ACM CCS,2017,日志序列深度学习异常检测经典起点,https://doi.org/10.1145/3133956.3134015
+P002,log,Drain: An Online Log Parsing Approach with Fixed Depth Tree,ICWS,2017,在线日志解析常用基线,https://doi.org/10.1109/ICWS.2017.13
+P003,log,LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs,IJCAI,2019,引入日志模板语义并同时处理序列和数量异常,https://www.ijcai.org/proceedings/2019/658
+P004,log,Robust Log-based Anomaly Detection on Unstable Log Data,FSE,2019,直面日志演化和生产噪声,https://www.microsoft.com/en-us/research/publication/robust-log-based-anomaly-detection-on-unstable-log-data/
+P005,metrics,Time-Series Anomaly Detection Service at Microsoft,KDD,2019,工业级在线时序异常检测服务,https://www.kdd.org/kdd2019/accepted-papers/view/time-series-anomaly-detection-service-at-microsoft
+P006,metrics,Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network,KDD,2019,OmniAnomaly 多变量时序异常检测与解释,https://www.kdd.org/kdd2019/accepted-papers/view/robust-anomaly-detection-for-multivariate-time-series-through-stochastic-re
+P007,rca,CloudRanger: Root Cause Identification for Cloud Native Systems,CCGrid,2018,无先验拓扑下构建动态因果影响图,https://research.ibm.com/publications/cloudranger-root-cause-identification-for-cloud-native-systems
+P008,rca,MicroRCA: Root Cause Localization of Performance Issues in Microservices,NOMS,2020,Kubernetes 微服务实时 RCA 图方法,https://doi.org/10.1109/NOMS47738.2020.9110353
+P009,mitigation,Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions,OSDI,2020,Azure 生产级预测和自适应故障缓解,https://www.usenix.org/conference/osdi20/presentation/levy
+P010,incident,AIOps Innovations of Incident Management for Cloud Services,AAAI Cloud Intelligence Workshop,2020,Microsoft 事故管理 AIOps 实践框架,https://www.microsoft.com/en-us/research/publication/aiops-innovations-of-incident-management-for-cloud-services/
+P011,llm,A Survey of AIOps in the Era of Large Language Models,ACM Computing Surveys/arXiv,2025,LLM4AIOps 综述并覆盖 2020-2024 研究,https://arxiv.org/abs/2507.12472
+P012,llm,Optimizing incident management with AIOps using the Triangle System,Microsoft Azure Blog,2025,多 Agent 事故分派生产实践,https://azure.microsoft.com/en-us/blog/optimizing-incident-management-with-aiops-using-the-triangle-system/
+P013,llm,Leveraging AI for efficient incident response,Meta Engineering,2024,启发式检索 + LLM 排序做 RCA 候选,https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/
+P014,manufacturing,Predictive maintenance in the Industry 4.0: A systematic literature review,Computers & Industrial Engineering,2020,制造业预测性维护系统综述,https://doi.org/10.1016/j.cie.2020.106889
+P015,manufacturing,Explainable anomaly detection framework for predictive maintenance in manufacturing systems,Applied Soft Computing,2022,制造业无监督早期预警和可解释根因,https://doi.org/10.1016/j.asoc.2022.109147
+P016,manufacturing,Real-Time Anomaly Detection in Manufacturing through Online KPI Monitoring,Procedia CIRP,2025,产线 KPI 实时异常与生产损失根因识别,https://doi.org/10.1016/j.procir.2025.03.047
+P017,automotive,A comprehensive review on AI driven predictive maintenance in vehicles,Discover Applied Sciences,2025,车辆预测性维护综述,https://doi.org/10.1007/s42452-025-06681-3
+P018,digital_twin,ISO 23247 Digital twin framework for manufacturing,ISO/NIST,2021,制造业数字孪生标准化基础,https://www.iso.org/standard/75066.html
+
